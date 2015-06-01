@@ -1,1 +1,4 @@
-/Windows/AutoKVM/obj
+/Windows/MonitorSourceToggler/obj
+/Windows/MonitorSourceToggler/bin
+*.suo
+*.user

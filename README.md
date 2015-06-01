@@ -1,4 +1,6 @@
-AutoKVM
+MonitorSourceToggler
 =======
 
-Converts your monitors/USB switch to a full featured KVM using software.
+Toggles between monitor sources using a global hotkey or task tray item.
+
+Note: Some ID codes probably need to be changed for your setup.
