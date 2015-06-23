@@ -10,7 +10,7 @@ using System.Reflection;
 using System.Threading;
 using System.Runtime.InteropServices;
 
-namespace MonitorSourceToggler
+namespace MonitorSourceSwitcher
 {
     public partial class TaskTray : Form
     {

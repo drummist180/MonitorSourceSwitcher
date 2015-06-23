@@ -14,7 +14,7 @@ using System.Diagnostics;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
-namespace MonitorSourceToggler
+namespace MonitorSourceSwitcher
 {
     class InterceptKeys
     {

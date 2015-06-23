@@ -1,4 +1,4 @@
-﻿namespace MonitorSourceToggler
+﻿namespace MonitorSourceSwitcher
 {
     partial class TaskTray
     {
@@ -40,7 +40,7 @@
             // 
             this.notifyIcon1.ContextMenuStrip = this.contextMenuStrip1;
             this.notifyIcon1.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon1.Icon")));
-            this.notifyIcon1.Text = "MonitorSourceToggler";
+            this.notifyIcon1.Text = "Monitor Source Switcher";
             this.notifyIcon1.Visible = true;
             this.notifyIcon1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.notifyIcon1_MouseClick);
             // 
